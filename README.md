@@ -7,17 +7,17 @@
 
 ## 📝 目前版本
 
-    主程式版本：17.6.0 Build 24238078
+    主程式版本：26H1u1 Build 25688693
     
-    語言檔版本：17.6.0.61175
+    語言檔版本：26.0.1.2799
 
 ## 💽 使用說明
 
 1. 安裝 `VMware Workstation`。
 2. 下載適用版本之語言檔案。
-3. 將 `zh_TW` 資料夾複製到 `C:\Program Files (x86)\VMware\VMware Workstation\messages`。
+3. 將 `zh_TW` 資料夾複製到 `C:\Program Files\VMware\VMware Workstation\messages`。
 4. 在 `VMware Workstation` 桌面捷徑右鍵點擊內容。
-5. 在捷徑目標最後新增 ` --locale zh_TW` `("C:\Program Files (x86)\VMware\VMware Workstation\vmware.exe" --locale zh_TW)`。
+5. 在捷徑目標最後新增 ` --locale zh_TW` `("C:\Program Files\VMware\VMware Workstation\vmware.exe" --locale zh_TW)`。
 6. 開啟 VMware Workstation 將顯示繁體中文化。
 
 [project-url]: https://github.com/LaiYueTing/VMware-zh_TW "GitHub 繁體中文化插件"
